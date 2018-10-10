@@ -2,3 +2,5 @@ f1(){
 printf("impl");//:D}
 
 int f2(){return 1+1}
+
+xxx
